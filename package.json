@@ -1,6 +1,6 @@
 {
-  "name": "get-config",
-  "version": "1.0.0",
+  "name": "simple-json-config",
+  "version": "1.0.1",
   "description": "Simple Node helper to get an JSON file as config input for any kind of application",
   "main": "index.js",
   "scripts": {
